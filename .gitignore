@@ -1,0 +1,9 @@
+backend:restapi/node_modules
+backend:restapi/public/storage
+backend:restapi/storage/*.key
+backend:restapi/vendor
+backend:restapi/.idea
+backend:restapi/Homestead.json
+backend:restapi/Homestead.yaml
+backend:restapi/.env
+frontend/node_modules/
